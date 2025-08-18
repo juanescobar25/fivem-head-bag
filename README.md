@@ -80,4 +80,4 @@ See [LICENSE](./LICENSE) for full details.
 ## ✒️ Author
 
 Created and maintained by **KaloudasDev**.
-If you find this project useful, a ⭐️ star on the repository would be greatly appreciated!
+If you find this project useful, your ⭐️ star on the repository would be greatly appreciated!
