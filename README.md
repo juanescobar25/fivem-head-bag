@@ -1,4 +1,4 @@
-# 🎮 FiveM Head Bag Interaction System
+## 🎭 FiveM Head Bag Interaction System
 
 **Head Bag Interaction System** is a professional, lightweight script for FiveM that allows players to apply or remove head bags on other players via a clean and intuitive menu. Perfect for roleplay servers, it provides realistic interactions, visual overlays, and full client-server management for a smooth and safe gameplay experience.
 
