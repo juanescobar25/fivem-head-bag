@@ -4,8 +4,6 @@
 
 This script is built using the **ESX framework**, is modular, easy to configure, and fully extendable for future features.
 
----
-
 ## ✨ Features
 
 * [x] Apply a head bag to nearby players using an in-game menu.
@@ -15,8 +13,6 @@ This script is built using the **ESX framework**, is modular, easy to configure,
 * [x] Client-server architecture for secure, synchronized application.
 * [x] In-game notifications for professional player feedback.
 * [x] Fully modular design for easy extension and maintenance.
-
----
 
 ## ⚙️ How It Works
 
@@ -34,8 +30,6 @@ This script is built using the **ESX framework**, is modular, easy to configure,
 
 5. **Persistent Handling:**
    The head bag is automatically removed on player respawn (`playerSpawned`) to prevent glitches or ghost objects.
-
----
 
 ## 🛠️ Installation & Setup
 
@@ -65,15 +59,11 @@ start headbag_system
 * The NUI overlay appears automatically when a head bag is applied.
 * Fully client-server synchronized for reliable gameplay.
 
----
-
 ## ⚠️ Permissions & Compatibility
 
 * No special permissions required.
 * Compatible with any FiveM server using ESX framework.
 * Works perfectly in multiplayer roleplay environments.
-
----
 
 ## 📣 Contributing
 
@@ -84,15 +74,11 @@ Contributions, bug reports, and feature requests are welcome! Please:
 * Submit pull requests with detailed explanations.
 * Report issues via GitHub Issues.
 
----
-
 ## 📋 License
 
 This project is licensed under the **MIT License**.
 It allows full usage, modification, and distribution with minimal restrictions.
 See [LICENSE](./LICENSE) for full details.
-
----
 
 ## ✒️ Author
 
