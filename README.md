@@ -73,11 +73,11 @@ Contributions, bug reports, and feature requests are welcome! Please:
 
 ## 📋 License
 
-This project is licensed under the **MIT License**.
+This project is licensed under the **MIT License**.   
 It allows full usage, modification, and distribution with minimal restrictions.
 See [LICENSE](./LICENSE) for full details.
 
 ## ✒️ Author
 
-Created and maintained by **KaloudasDev**.
-If you find this project useful, your ⭐️ star on the repository would be greatly appreciated!
+Created and maintained by **KaloudasDev**.  
+If you find this project useful, a ⭐️ star on the repository would be greatly appreciated!
