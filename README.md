@@ -73,7 +73,7 @@ Contributions, bug reports, and feature requests are welcome! Please:
 
 ## 📋 License
 
-This project is licensed under the **MIT License**.   
+This project is licensed under the **Apache-2.0 License**.   
 It allows full usage, modification, and distribution with minimal restrictions.
 See [LICENSE](./LICENSE) for full details.
 
